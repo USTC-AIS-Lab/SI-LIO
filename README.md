@@ -1,3 +1,4 @@
+# SI_LIO
 **SI_LIO** is based on the invariant-KF theory and our code is implemented on S-FAST_LIO.
 <p align="center" style="display: flex; justify-content: center;">
     <img src="./img/street_04.png" alt="drawing" width="300"/>
@@ -15,7 +16,7 @@ Eigen
 PCL
 livox_ros_driver
 
-## 2. Build SI-LIO
+## 2. Build
 Clone the repository and catkin_make:
 
 ```
@@ -26,7 +27,7 @@ catkin_make -j
 source ~/catkin_ws/devel/setup.bash
 ```
 
-## 3. Run:
+## 3. Run
 We recommend using the [M2DGR](https://github.com/SJTU-ViSYS/M2DGR) dataset.
 ```
 roslaunch inva_fast_lio mapping_velodyne_m2dgr.launch

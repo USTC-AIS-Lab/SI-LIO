@@ -6,7 +6,7 @@
 
 The accuracy is close to FAST-LIO2, but the speed is improved by **30%**.
 <p align='center'>
-    <img src="./img/compare.gif" alt="drawing" width="800"/>
+    <img src="./img/compare.gif" alt="drawing" width="600"/>
 </p>
 
 ## 1. Dependices

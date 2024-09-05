@@ -5,10 +5,7 @@
     <img src="./img/street_04_com.png" alt="drawing" width="400"/>
 </p>
 
-The accuracy is close to FAST-LIO2, but the speed is improved by **30%**.
-<p align='center'>
-    <img src="./img/compare.gif" alt="drawing" width="600"/>
-</p>
+The accuracy is close to FAST-LIO2
 
 ## 1. Dependices
 Sophus

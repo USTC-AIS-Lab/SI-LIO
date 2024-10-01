@@ -1,11 +1,11 @@
 # SI_LIO
 **SI_LIO** is based on the invariant-KF theory and our code is implemented on S-FAST_LIO.
 <p align="center" style="display: flex; justify-content: center;">
-    <img src="./img/street_04.png" alt="drawing" width="300"/>
-    <img src="./img/street_04_com.png" alt="drawing" width="400"/>
+    <img src="./img/gate_03.png" alt="drawing" width="350"/>
+    <img src="./img/gate_03_compare.png" alt="drawing" width="350"/>
 </p>
 
-The accuracy is close to FAST-LIO2.....
+In some cases, our accuracy is slightly higher than that of fast-lio2.
 
 ## 1. Dependices
 Sophus

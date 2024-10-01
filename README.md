@@ -5,7 +5,7 @@
     <img src="./img/gate_03_compare.png" alt="drawing" width="350"/>
 </p>
 
-In some cases, our accuracy is higher than fast-lio2.
+Through theoretical analysis, it can be deduced that our IEKF-based estimation method achieves higher estimation accuracy compared to the Iterated EKF used in FAST-LIO2, particularly in scenarios with large IMU prediction errors. This experimental outcome corroborates our analytical conclusions.
 
 ## 1. Dependices
 Sophus

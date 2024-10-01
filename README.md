@@ -5,7 +5,7 @@
     <img src="./img/gate_03_compare.png" alt="drawing" width="350"/>
 </p>
 
-In some cases, our accuracy is higher than that of fast-lio2.
+In some cases, our accuracy is higher than fast-lio2.
 
 ## 1. Dependices
 Sophus

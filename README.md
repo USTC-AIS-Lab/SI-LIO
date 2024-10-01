@@ -1,11 +1,11 @@
 # SI_LIO
-**SI_LIO** is based on the invariant-KF theory and our code is implemented on S-FAST_LIO.
+**SI_LIO** is based on the Invariant-EKF theory and our code is implemented on S-FAST_LIO.
 <p align="center" style="display: flex; justify-content: center;">
     <img src="./img/gate_03.png" alt="drawing" width="350"/>
     <img src="./img/gate_03_compare.png" alt="drawing" width="350"/>
 </p>
 
-In some cases, our accuracy is slightly higher than that of fast-lio2.
+In some cases, our accuracy is higher than that of fast-lio2.
 
 ## 1. Dependices
 Sophus
